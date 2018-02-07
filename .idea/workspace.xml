@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba874ba-b410-4d07-a94c-de0bff44c1a0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/holding/EnvironmentVariables.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E04.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E05.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E06.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E07.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E08.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptions/E09.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +27,40 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="E08.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exceptions/E08.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E09.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exceptions/E09.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E07.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exceptions/E07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,15 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/interfaces/filters/BandPass.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/interfaceprocessor/Apply.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/interfaceprocessor/FilterAdapter.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/interfaceprocessor/FilterProcessor.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/filters/Processor.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/interfaceprocessor/Processor.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/filters/Filter.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/E11_Swapper.java" />
-        <option value="$PROJECT_DIR$/src/interfaces/E12.java" />
         <option value="$PROJECT_DIR$/src/interfaces/E13.java" />
         <option value="$PROJECT_DIR$/src/interfaces/E14.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/E01.java" />
@@ -92,13 +124,22 @@
         <option value="$PROJECT_DIR$/src/holding/E12.java" />
         <option value="$PROJECT_DIR$/src/holding/E15.java" />
         <option value="$PROJECT_DIR$/src/holding/EnvironmentVariables.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E01.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E02.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E03.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E04.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E05.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E06.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E07.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E08.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/E09.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="1782" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -121,8 +162,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,12 +176,34 @@
             </path>
             <path>
               <item name="ThinkInJavaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJavaExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThinkInJavaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJavaExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="E08.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkInJavaExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJavaExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="E09.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkInJavaExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnvironmentVariables">
+  <component name="RunManager" selected="Application.E09">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -171,14 +232,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="E01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="E05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="holding.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="holding.E01" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.E05" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -190,14 +251,14 @@
       <module name="ThinkingInJavaExercises" />
       <envs />
     </configuration>
-    <configuration name="E12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="E06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="holding.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="holding.E12" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.E06" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -209,14 +270,52 @@
       <module name="ThinkingInJavaExercises" />
       <envs />
     </configuration>
-    <configuration name="E15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="E07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="holding.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="holding.E15" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.E07" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJavaExercises" />
+      <envs />
+    </configuration>
+    <configuration name="E08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exceptions.E08" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJavaExercises" />
+      <envs />
+    </configuration>
+    <configuration name="E09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exceptions.E09" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -236,44 +335,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="innerclasses.E21" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJavaExercises" />
-      <envs />
-    </configuration>
-    <configuration name="E26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="innerclasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="innerclasses.E26" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJavaExercises" />
-      <envs />
-    </configuration>
-    <configuration name="EnvironmentVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="holding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="holding.EnvironmentVariables" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -361,19 +422,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.E21" />
-      <item index="1" class="java.lang.String" itemvalue="Application.E26" />
-      <item index="2" class="java.lang.String" itemvalue="Application.E01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.E12" />
-      <item index="4" class="java.lang.String" itemvalue="Application.E15" />
-      <item index="5" class="java.lang.String" itemvalue="Application.EnvironmentVariables" />
+      <item index="1" class="java.lang.String" itemvalue="Application.E05" />
+      <item index="2" class="java.lang.String" itemvalue="Application.E06" />
+      <item index="3" class="java.lang.String" itemvalue="Application.E07" />
+      <item index="4" class="java.lang.String" itemvalue="Application.E08" />
+      <item index="5" class="java.lang.String" itemvalue="Application.E09" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EnvironmentVariables" />
-        <item index="1" class="java.lang.String" itemvalue="Application.E15" />
-        <item index="2" class="java.lang.String" itemvalue="Application.E12" />
-        <item index="3" class="java.lang.String" itemvalue="Application.E01" />
-        <item index="4" class="java.lang.String" itemvalue="Application.E26" />
+        <item index="0" class="java.lang.String" itemvalue="Application.E09" />
+        <item index="1" class="java.lang.String" itemvalue="Application.E08" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E07" />
+        <item index="3" class="java.lang.String" itemvalue="Application.E06" />
+        <item index="4" class="java.lang.String" itemvalue="Application.E05" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +455,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -409,7 +471,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16770834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -435,45 +497,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interfaces/E11_Swapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/E12.java" />
-    <entry file="file://$PROJECT_DIR$/src/interfaces/E13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interfaces/E14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/E01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/E02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package1.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package2/Do.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package3/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package3/T1.java" />
     <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package3/T3.java" />
     <entry file="file://$PROJECT_DIR$/src/innerclasses/e6package3/E6extend.java">
@@ -729,6 +752,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="71" lean-forward="false" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="67" lean-forward="false" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exceptions/E09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
       </provider>
